@@ -6,7 +6,8 @@ rjmp setup	; This instruction is executed when the controller is first powered o
 ; Turn on a LED connected to PB0
 ; This is intended as a really basic introduction to
 ; working with the tools (software and hardware) needed for
-; assembler programming
+; assembler programming, as well as an introduction to the basic structure
+; of an assembly listing
 
 ; It can then be extended to turn the ping HIGH/LOW in rapid succession,
 ; leading up to introducing delay loops

@@ -23,12 +23,11 @@ to simply uploading that. However, I would highly recommend doing the same when 
 this workshop on computers that are not completely under your control (e.g. a bring-your-own-device setting).
 
 On the hardware side of things, you'll need
-	
-	* The actual microcontrollers (ATmega8)
-	* Red/green/yellow LEDs
-	* Some resistors for the LEDs
-	* AVR ICSP programmers (the cheap ones will do, too)
-	* Some switches (DIP switch arrays work quite well)
-	* Breadboards (kind of optional, but highly recommended)
-	* a whole lot of those tiny wires to go on the breadboards
+* The actual microcontrollers (ATmega8)
+* Red/green/yellow LEDs
+* Some resistors for the LEDs
+* AVR ICSP programmers (the cheap ones will do, too)
+* Some switches (DIP switch arrays work quite well)
+* Breadboards (kind of optional, but highly recommended)
+* a whole lot of those tiny wires to go on the breadboards
 
