@@ -1,4 +1,5 @@
 .include "m8def.inc"
+.cseg
 .org 0
 rjmp main
 
