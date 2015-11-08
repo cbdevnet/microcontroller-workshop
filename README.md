@@ -22,6 +22,10 @@ avrdude and some offline reference PDFs, but unfortunately I think there would b
 to simply uploading that. However, I would highly recommend doing the same when teaching
 this workshop on computers that are not completely under your control (e.g. a bring-your-own-device setting).
 
+All of the examples pull in `m8def.inc`, which contains the platform-specific definitions for the mega8.
+This file should usually come with your assembler, in avra's case you can probably find it under
+`/usr/share/avra/`.
+
 On the hardware side of things, you'll need
 * The actual microcontrollers (ATmega8)
 * Red/green/yellow LEDs
