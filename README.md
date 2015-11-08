@@ -1,6 +1,6 @@
 # What's this
 
-This repository contains the assembler listings I used for teaching a one-week
+This repository contains the assembly listings I used for teaching a one-week
 microcontroller workshop to high-school students in a university orientation program
 (Schnupperstudium Informatik) in 2015.
 
@@ -30,8 +30,8 @@ On the hardware side of things, you'll need
 * The actual microcontrollers (ATmega8)
 * Red/green/yellow LEDs
 * Some resistors for the LEDs
-* AVR ICSP programmers (the cheap ones will do, too)
+* AVR ICSP programmers (One per student works best)
 * Some switches (DIP switch arrays work quite well)
-* Breadboards (kind of optional, but highly recommended)
+* Breadboards
 * a whole lot of those tiny wires to go on the breadboards
-
+* a Logic Analyzer (great for illustrating how some of the examples work)
