@@ -17,5 +17,5 @@ setup:
 	out DDRB, r16		; Output r16 into PORTB, turning PB0 into an output pin
 
 main:
-	out PORTC, r16		; Re-use r16's contents to turn the pin HIGH
+	out PORTB, r16		; Re-use r16's contents to turn the pin HIGH
 	rjmp main		; Jump back
