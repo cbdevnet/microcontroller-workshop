@@ -21,9 +21,9 @@ setup:
 	; input, the bit controls whether the pullup resistor on that pin
 	; is active.
 	ldi r16, 0b11111111
-	out PORTD, tr16
+	out PORTD, r16
 
 loop:
 	in r16, PIND	; Read current levels at Port D
 	out PORTC, r16	; Copy them to Port C as output
-	rjmp main	; Do it again
+	rjmp loop	; Do it again
