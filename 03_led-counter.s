@@ -1,7 +1,7 @@
 .include "m8def.inc"
 .cseg
 .org 0
-rjmp main
+rjmp setup
 
 ; This program displays a binary counter on pins PD0 to PD7
 ; This is just a fun example
